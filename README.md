@@ -35,5 +35,5 @@
 ### Key results
 
 
-### The solutions are documented in this file, and the model is available for production in this link.
+### *The solutions are documented in [this file](https://github.com/mfdanieli/rossmann/blob/main/Project_documentation_v1.pdf), and the model is available for production in this link.*
 
