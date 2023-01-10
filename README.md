@@ -32,8 +32,8 @@
 - Deploy and production
   
    
-### Results highlights
+### Key results
 
 
-### The solutions are documented in this file.
+### The solutions are documented in this file, and the model is available for production in this link.
 
